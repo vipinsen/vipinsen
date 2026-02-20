@@ -1,4 +1,4 @@
-![logo](https://github.com/vipinsen/vipinsen/blob/main/GitHub%20Banner.pnj)
+![logo](https://github.com/vipinsen/vipinsen/blob/main/vipin.png)
 
 <h1 align="center">Hi 👋, I'm Vipin Kumar Sen</h1>
 <h3 align="center">A passionate Software developer from India</h3>
